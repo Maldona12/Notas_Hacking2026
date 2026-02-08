@@ -1,4 +1,4 @@
-# 1-Lets Warm Up
+# Lets Warm Up
 
   
 DESCRIPCIÓN
@@ -7,16 +7,16 @@ If I told you a word started with 0x70 in hexadecimal, what would it start with 
   
 SOLUCIÓN  
 
-### Solucion 1 - Usando cyberchef
+### Solución 1 - Usando Cyberchef
 
 https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')&input=MHg3MA  
 
 p
 
 
-picoctf(p)
+picoctf{p}
 
-### Solucion 2 - Usando Python
+### Solución 2 - Usando Python
   
 ```
 
@@ -38,6 +38,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 NOTAS ADICIONALES
 
 Cyberchef es una pagina que me permite decodificar en diferentes formatos
+
+picoCTF{p}
   
 REFERENCIAS
 
