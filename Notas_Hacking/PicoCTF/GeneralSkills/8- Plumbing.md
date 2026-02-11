@@ -1,4 +1,3 @@
-
 ### Plumbing 
 
 ### DESCRIPCIÓN
@@ -16,5 +15,8 @@ El resultado es:
 
 picoCTF{digital_plumb3r_8c8f3412}
 ### NOTAS ADICIONALES
+
+* Pipe | redirige la salida de un comando a la entrada de otro 
+* > redirige la salida de un comando a un archivo de texto 
 
 ### REFERENCIAS

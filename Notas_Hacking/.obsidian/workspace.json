@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/GeneralSkills/10- Nice netcat....md",
+                "file": "PicoCTF/GeneralSkills2/10- First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10- Nice netcat..."
+              "title": "10- First Find"
             }
           }
         ],
@@ -242,20 +242,30 @@
   },
   "active": "62face1abbc95bdf",
   "lastOpenFiles": [
-    "PicoCTF/GeneralSkills/9- Glitch Cat.md",
-    "PicoCTF/GeneralSkills/10- Nice netcat....md",
+    "PicoCTF/GeneralSkills2/9- Big zip.md",
+    "PicoCTF/GeneralSkills2/8-Repetitions.md",
+    "PicoCTF/GeneralSkills2/7-Magikarp Ground Mission.md",
+    "PicoCTF/GeneralSkills2/6- Tab, Tab, Attack.md",
+    "PicoCTF/GeneralSkills2/5- Useless.md",
+    "PicoCTF/GeneralSkills2/4- Static ain't always noise.md",
+    "PicoCTF/GeneralSkills2/3-Wave a flag.md",
+    "PicoCTF/GeneralSkills2/2- Strings it.md",
+    "PicoCTF/GeneralSkills2/10- First Find.md",
+    "PicoCTF/GeneralSkills2/1- Based.md",
     "PLANTILLA.md",
-    "Sin título.md",
+    "PicoCTF/GeneralSkills/9- Glitch Cat.md",
     "PicoCTF/GeneralSkills/8- Plumbing.md",
     "PicoCTF/GeneralSkills/7- what's a net cat.md",
-    "PicoCTF/GeneralSkills/5- First Grep.md",
-    "PicoCTF/GeneralSkills/6- Obedient Cat.md",
-    "README.md",
-    "PicoCTF/GeneralSkills/4- Bases.md",
     "PicoCTF/GeneralSkills/1- Lets Warm Up.md",
-    "PicoCTF/GeneralSkills/3- Warmed Up.md",
+    "PicoCTF/GeneralSkills/10- Nice netcat....md",
+    "README.md",
+    "PicoCTF/GeneralSkills2",
+    "PicoCTF/GeneralSkills/5- First Grep.md",
+    "PicoCTF/GeneralSkills/4- Bases.md",
     "PicoCTF/GeneralSkills/2- 2Warm.md",
-    "Sin nombre",
+    "Sin título.md",
+    "PicoCTF/GeneralSkills/6- Obedient Cat.md",
+    "PicoCTF/GeneralSkills/3- Warmed Up.md",
     "PicoCTF/GeneralSkills",
     "PicoCTF"
   ]

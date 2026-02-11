@@ -29,6 +29,12 @@ l3arn_th3_r0p35
 
 picoCTF{l3arn_th3_r0p35}
 
+
+### Solución 3 - Usando la Consola
+
+echo 'bDNhcm5fdGgzX3IwcDM1' | base64 -d
+
+
 NOTAS ADICIONALES
 
 Gracias a la pista que viene en el reto puedes deducir que tienes que convertir o decodificar en base64, investigando encontré una forma de hacerlo con Python
