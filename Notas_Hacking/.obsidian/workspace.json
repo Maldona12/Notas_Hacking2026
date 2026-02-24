@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea1-General Skills/10-ASCII Numbers.md",
+                "file": "PicoCTF/PicoCTFWeb1/6- Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-ASCII Numbers"
+              "title": "6- Client-side-again"
             }
           }
         ]
@@ -185,6 +185,15 @@
   },
   "active": "92d17ed4c29b5130",
   "lastOpenFiles": [
+    "PicoCTF/PicoCTFWeb1/4- Dont-use-client-side.md",
+    "PicoCTF/PicoCTFWeb1/6- Client-side-again.md",
+    "PicoCTF/PicoCTFWeb1/5- Picobrowser.md",
+    "PLANTILLA.md",
+    "PicoCTF/PicoCTFWeb1/3- Logon.md",
+    "PicoCTF/PicoCTFWeb1/2- Where are the robots.md",
+    "PicoCTF/PicoCTFWeb1/1- Insp3ct0r.md",
+    "PicoCTF/Tarea1-General Skills/10-ASCII Numbers.md",
+    "PicoCTF/PicoCTFWeb1",
     "PicoCTF/Tarea1-General Skills/9- Binhexa.md",
     "PicoCTF/Tarea1-General Skills/8- Binary search.md",
     "PicoCTF/Tarea1-General Skills/7- Collaborative development.md",
@@ -195,8 +204,6 @@
     "PicoCTF/Tarea1-General Skills/2- Chrono.md",
     "PicoCTF/Tarea1-General Skills/1- Permissions.md",
     "Sin título.base",
-    "PicoCTF/Tarea1-General Skills/10-ASCII Numbers.md",
-    "PLANTILLA.md",
     "PicoCTF/Tarea1-General Skills",
     "PicoCTF/GeneralSkills3/10-Serpentine.md",
     "PicoCTF/GeneralSkills3/1- Super SSH.md",
@@ -207,11 +214,6 @@
     "PicoCTF/GeneralSkills3/7-PW Crack 1.md",
     "PicoCTF/GeneralSkills3/6- fixme2.py.md",
     "PicoCTF/GeneralSkills3/5-fixme1.py.md",
-    "PicoCTF/GeneralSkills3/4- convertme.py.md",
-    "PicoCTF/GeneralSkills3/3-Codebook.md",
-    "PicoCTF/GeneralSkills3/2- runme.py.md",
-    "PicoCTF/GeneralSkills2/1- Based.md",
-    "PicoCTF/GeneralSkills2/5- Useless.md",
     "PicoCTF/GeneralSkills3",
     "PicoCTF/GeneralSkills2",
     "PicoCTF/GeneralSkills",
