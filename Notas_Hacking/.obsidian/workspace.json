@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea2-Web/10- SQLiLite.md",
+                "file": "PicoCTF/Forensic1/5- what lies Whitin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10- SQLiLite"
+              "title": "5- what lies Whitin"
             }
           }
         ]
@@ -185,8 +185,16 @@
   },
   "active": "3a0373f1fcdd75d3",
   "lastOpenFiles": [
-    "PicoCTF/Tarea2-Web/9- Secrets.md",
+    "PicoCTF/Forensic1/1- Glory of the Garden.md",
+    "PicoCTF/Forensic1/5- what lies Whitin.md",
+    "PicoCTF/Forensic1/what lies Whitin.md",
+    "PLANTILLA.md",
+    "PicoCTF/Forensic1/2- So Meta.md",
+    "PicoCTF/Forensic1/4- extensions.md",
+    "PicoCTF/Forensic1/3- shark on wire 1.md",
     "PicoCTF/Tarea2-Web/10- SQLiLite.md",
+    "PicoCTF/Forensic1",
+    "PicoCTF/Tarea2-Web/9- Secrets.md",
     "PicoCTF/Tarea2-Web/8- Roboto Sans.md",
     "PicoCTF/Tarea2-Web/7- Power Cookie.md",
     "PicoCTF/Tarea2-Web/6-WebDecode.md",
@@ -196,7 +204,6 @@
     "PicoCTF/PicoCTFWeb3/2- More SQLi.md",
     "PicoCTF/Tarea2-Web/2- Inspect HTML.md",
     "PicoCTF/Tarea2-Web/1- Includes.md",
-    "PLANTILLA.md",
     "PicoCTF/PicoCTFWeb4/4- Most Cookie.md",
     "PicoCTF/Tarea2-Web",
     "PicoCTF/PicoCTFWeb4/2- SOAP.md",
@@ -208,18 +215,11 @@
     "PicoCTF/PicoCTFWeb2/3- Scavenger Hunt.md",
     "PicoCTF/PicoCTFWeb3",
     "PicoCTF/PicoCTFWeb2/2- Cookies.md",
-    "PicoCTF/PicoCTFWeb2/1- GET aHEAD.md",
-    "README.md",
-    "PicoCTF/PicoCTFWeb1/6- Client-side-again.md",
     "PicoCTF/PicoCTFWeb2",
-    "PicoCTF/PicoCTFWeb1/4- Dont-use-client-side.md",
-    "PicoCTF/PicoCTFWeb1/5- Picobrowser.md",
-    "PicoCTF/PicoCTFWeb1/3- Logon.md",
     "PicoCTF/PicoCTFWeb1",
     "Sin título.base",
     "PicoCTF/Tarea1-General Skills",
     "PicoCTF/GeneralSkills3",
-    "PicoCTF/GeneralSkills2",
-    "PicoCTF/GeneralSkills"
+    "PicoCTF/GeneralSkills2"
   ]
 }
