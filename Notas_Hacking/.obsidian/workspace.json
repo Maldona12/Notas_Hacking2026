@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "91ccf26825dc6639",
+        "id": "f45b6c4c86195c8d",
         "type": "tabs",
         "children": [
           {
-            "id": "3a0373f1fcdd75d3",
+            "id": "7a102f85dfb21143",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Forensic1/5- what lies Whitin.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "5- what lies Whitin"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -183,12 +179,27 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3a0373f1fcdd75d3",
+  "active": "7a102f85dfb21143",
   "lastOpenFiles": [
-    "PicoCTF/Forensic1/1- Glory of the Garden.md",
-    "PicoCTF/Forensic1/5- what lies Whitin.md",
-    "PicoCTF/Forensic1/what lies Whitin.md",
+    "PicoCTF/Examen1/Examen1General Skills/flag_shop.md",
+    "PicoCTF/Examen1 1/Examen1General Skills/flag_shop.md",
+    "PicoCTF/Examen1 1/Examen1Web/Java Code Analysis!!.md",
+    "PicoCTF/Examen1 1/Examen1Web/SSTI2.md",
+    "PicoCTF/Examen1 1/Examen1General Skills",
+    "PicoCTF/Examen1 1/Examen1Web",
+    "PicoCTF/Examen1 1",
+    "PicoCTF/Examen1/Examen1Web/Java Code Analysis!!.md",
+    "PicoCTF/Examen1/Examen1Web/SSTI2.md",
+    "PicoCTF/PicoCTFWeb4/4- Most Cookie.md",
     "PLANTILLA.md",
+    "PicoCTF/Forensic1/5- what lies Whitin.md",
+    "PicoCTF/Examen1/Examen1General Skills",
+    "PicoCTF/Examen1/Examen 1 - General Skills.md",
+    "PicoCTF/Examen1/Examen1Web",
+    "PicoCTF/Examen1",
+    "PicoCTF/Examen1.md",
+    "PicoCTF/Forensic1/1- Glory of the Garden.md",
+    "PicoCTF/Forensic1/what lies Whitin.md",
     "PicoCTF/Forensic1/2- So Meta.md",
     "PicoCTF/Forensic1/4- extensions.md",
     "PicoCTF/Forensic1/3- shark on wire 1.md",
@@ -203,23 +214,8 @@
     "PicoCTF/Tarea2-Web/3- IntroToBurp.md",
     "PicoCTF/PicoCTFWeb3/2- More SQLi.md",
     "PicoCTF/Tarea2-Web/2- Inspect HTML.md",
-    "PicoCTF/Tarea2-Web/1- Includes.md",
-    "PicoCTF/PicoCTFWeb4/4- Most Cookie.md",
     "PicoCTF/Tarea2-Web",
-    "PicoCTF/PicoCTFWeb4/2- SOAP.md",
-    "PicoCTF/PicoCTFWeb4/3- Trickster.md",
-    "PicoCTF/PicoCTFWeb4/1- MatchTheRegex.md",
-    "PicoCTF/PicoCTFWeb3/3- JaWT Scratchpad.md",
     "PicoCTF/PicoCTFWeb4",
-    "PicoCTF/PicoCTFWeb3/1- Irish-Name-Repo 1.md",
-    "PicoCTF/PicoCTFWeb2/3- Scavenger Hunt.md",
-    "PicoCTF/PicoCTFWeb3",
-    "PicoCTF/PicoCTFWeb2/2- Cookies.md",
-    "PicoCTF/PicoCTFWeb2",
-    "PicoCTF/PicoCTFWeb1",
-    "Sin título.base",
-    "PicoCTF/Tarea1-General Skills",
-    "PicoCTF/GeneralSkills3",
-    "PicoCTF/GeneralSkills2"
+    "PicoCTF/PicoCTFWeb3"
   ]
 }
