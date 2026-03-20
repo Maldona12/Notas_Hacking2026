@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "b57c30aeeffcf868",
+    "id": "d266c886c03912fa",
     "type": "split",
     "children": [
       {
-        "id": "f45b6c4c86195c8d",
+        "id": "697f390d6da4cf4c",
         "type": "tabs",
         "children": [
           {
-            "id": "7a102f85dfb21143",
+            "id": "d76da3d6f0b7d025",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Examen1/Examen1Web/SSTI2.md",
+                "file": "GeneralSkills/bytemancy 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSTI2"
+              "title": "bytemancy 3"
+            }
+          },
+          {
+            "id": "9c5923bcdc540950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GeneralSkills/ABSOLUTE NANO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ABSOLUTE NANO"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c6d068a11ea19b73",
+    "id": "4fbe04db0d269b9b",
     "type": "split",
     "children": [
       {
-        "id": "1a75250ef5599f6c",
+        "id": "cbe10340adb6a3a5",
         "type": "tabs",
         "children": [
           {
-            "id": "ac53595487b32c3b",
+            "id": "64b65201e09f81cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "4540bd6c94b8438b",
+            "id": "ab09d21ab8cf9787",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "a1c21517aeb93371",
+            "id": "e22428387ae358e0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5110321044922
+    "width": 300
   },
   "right": {
-    "id": "a95a1f30f5592cd6",
+    "id": "1ed485eac5b5f0f3",
     "type": "split",
     "children": [
       {
-        "id": "17fea57d0ff71efa",
+        "id": "cc2882c14f3a85e5",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc000a68bc60117",
+            "id": "b2ec8c3914b544d8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/GeneralSkills/Lets Warm Up.md",
+                "file": "Bienvenido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Lets Warm Up"
+              "title": "Enlaces entrantes de Bienvenido"
             }
           },
           {
-            "id": "aefd3e39b911d694",
+            "id": "ab5b2c557c07f7d9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/GeneralSkills/Lets Warm Up.md",
+                "file": "Bienvenido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Lets Warm Up"
+              "title": "Enlaces salientes de Bienvenido"
             }
           },
           {
-            "id": "37ddd45a53869efb",
+            "id": "60014fd103bdfcb4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +152,7 @@
             }
           },
           {
-            "id": "da90001bd56ee898",
+            "id": "f6f096eb9a33f3f6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +166,18 @@
             }
           },
           {
-            "id": "b5713ae4e59f1c0a",
+            "id": "bb10d446f3ba7e52",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/GeneralSkills/Lets Warm Up.md",
+                "file": "Bienvenido.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Lets Warm Up"
+              "title": "Esquema de Bienvenido"
             }
           }
         ]
@@ -183,43 +198,33 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "7a102f85dfb21143",
+  "active": "9c5923bcdc540950",
   "lastOpenFiles": [
-    "PicoCTFCompetencia2026 - copia/Cryptography/Shared Secrets.md",
-    "PicoCTFCompetencia2026/WebExplotation/Sql Map1.md",
-    "PicoCTFCompetencia2026/WebExplotation/Old Sessions.md",
-    "PicoCTFCompetencia2026/GeneralSkills/Undo.md",
-    "PicoCTFCompetencia2026/GeneralSkills/SUDO MAKE ME A SANDWICH.md",
-    "PicoCTFCompetencia2026/GeneralSkills/Printer Shares.md",
-    "PicoCTFCompetencia2026/GeneralSkills/Printer Shares 2.md",
-    "PicoCTFCompetencia2026/GeneralSkills/ping-cmd.md",
-    "PicoCTFCompetencia2026/GeneralSkills/Piece by Piece.md",
-    "PicoCTFCompetencia2026/GeneralSkills/Password Profiler.md",
-    "PicoCTFCompetencia2026/GeneralSkills/My git.md",
-    "PicoCTFCompetencia2026/GeneralSkills/MultiCode.md",
-    "PicoCTFCompetencia2026/GeneralSkills/bytemancy 3.md",
-    "PicoCTFCompetencia2026/GeneralSkills/bytemancy 2.md",
-    "PicoCTFCompetencia2026/GeneralSkills/bytemancy 1.md",
-    "PicoCTFCompetencia2026/GeneralSkills/bytemancy 0.md",
-    "PicoCTFCompetencia2026/GeneralSkills/ABSOLUTE NANO.md",
-    "PicoCTFCompetencia2026/Forensic/Forensics Git 0.md",
-    "PicoCTFCompetencia2026/Forensic/Binary Digits.md",
-    "PicoCTFCompetencia2026/Cryptography/StegoRSA.md",
-    "PicoCTFCompetencia2026/Cryptography/Shared Secrets.md",
-    "PicoCTFCompetencia2026/WebExplotation",
-    "PicoCTFCompetencia2026/Plantilla.md",
-    "PicoCTFCompetencia2026/GeneralSkills",
-    "PicoCTFCompetencia2026/Forensic",
-    "PicoCTFCompetencia2026/Cryptography",
-    "PicoCTFCompetencia2026",
-    "PicoCTF/Examen1/Examen1Web/SSTI2.md",
-    "PicoCTF/Examen1/Examen1Web/SSTI1.md",
-    "PicoCTF/Examen1/Examen1Web/findme.md",
-    "PicoCTF/Examen1/Examen1Web/Bookmarklet.md",
-    "PicoCTF/PicoCTF-Forensic2",
-    "PicoCTF/Examen1 1/Examen1General Skills",
-    "PicoCTF/Examen1 1/Examen1Web",
-    "PicoCTF/Examen1 1",
-    "PicoCTF/Examen1/Examen1General Skills"
+    "Forensic/Forensics Git 0.md",
+    "GeneralSkills/ABSOLUTE NANO.md",
+    "Cryptography/StegoRSA.md",
+    "GeneralSkills/ping-cmd.md",
+    "GeneralSkills/MultiCode.md",
+    "GeneralSkills/bytemancy 3.md",
+    "GeneralSkills/bytemancy 2.md",
+    "GeneralSkills/bytemancy 0.md",
+    "GeneralSkills/bytemancy 1.md",
+    "WebExplotation",
+    "Forensic",
+    "Cryptography",
+    "GeneralSkills/My git.md",
+    "Forensic/Binary Digits.md",
+    "GeneralSkills/Undo.md",
+    "WebExplotation/Sql Map1.md",
+    "GeneralSkills/Printer Shares.md",
+    "GeneralSkills/Printer Shares 2.md",
+    "GeneralSkills/Password Profiler.md",
+    "WebExplotation/Old Sessions.md",
+    "Cryptography/Shared Secrets.md",
+    "GeneralSkills/SUDO MAKE ME A SANDWICH.md",
+    "Plantilla.md",
+    "GeneralSkills/Piece by Piece.md",
+    "Bienvenido.md",
+    "GeneralSkills"
   ]
 }
