@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Examen1/Examen1General Skills/Python Wrangling.md",
+                "file": "PicoCTF/PicoCTFCrypto/8- interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Wrangling"
+              "title": "8- interencdec"
             }
           }
         ]
@@ -185,9 +185,18 @@
   },
   "active": "08305a85616fb2f2",
   "lastOpenFiles": [
-    "PicoCTF/Examen1/Examen1General Skills/SansAplha.md",
-    "PicoCTF/Examen1/Examen1General Skills/Python Wrangling.md",
+    "PicoCTF/PicoCTFCrypto/7- waves over lambda.md",
+    "PicoCTF/PicoCTFCrypto/6- Tapping.md",
+    "PicoCTF/PicoCTFCrypto/5- la cifra de.md",
+    "PicoCTF/PicoCTFCrypto/4- Easy 1.md",
+    "PicoCTF/PicoCTFCrypto/3- Ceasar.md",
+    "PicoCTF/PicoCTFCrypto/2- 13.md",
+    "PicoCTF/PicoCTFCrypto/1- The Numbers.md",
+    "PicoCTF/PicoCTFCrypto/8- interencdec.md",
     "PLANTILLA.md",
+    "PicoCTF/Examen1/Examen1General Skills/Python Wrangling.md",
+    "PicoCTF/PicoCTFCrypto",
+    "PicoCTF/Examen1/Examen1General Skills/SansAplha.md",
     "PicoCTF/Examen1/Examen1Web/SSTI2.md",
     "PicoCTF/Examen1/Examen1General Skills/Specialer.md",
     "PicoCTF/Examen1/Examen1Web/SSTI1.md",
@@ -204,22 +213,13 @@
     "PicoCTF/Examen1/Examen1General Skills/SQL Direct.md",
     "PicoCTF/Examen1/Examen1General Skills/head-dump.md",
     "PicoCTF/Examen1/Examen1General Skills/Cookie Monster Secret Recipe.md",
-    "PicoCTF/PicoCTF-Forensic4/5- Operation Orchid.md",
-    "PicoCTF/PicoCTF-Forensic4/4- Sleuthkit Apprentice.md",
-    "PicoCTF/PicoCTF-Forensic4/6- Operation Oni.md",
-    "PicoCTF/PicoCTF-Forensic4/3- Sleuthkit Intro.md",
-    "PicoCTF/PicoCTF-Forensic4/2- Disk, disk, sleuth!.md",
-    "PicoCTF/PicoCTF-Forensic4/1- Milkslap.md",
     "PicoCTF/PicoCTF-Forensic4",
-    "PicoCTFCompetencia2026 - copia/Cryptography/Shared Secrets.md",
-    "PicoCTFCompetencia2026/WebExplotation/Sql Map1.md",
     "PicoCTFCompetencia2026/WebExplotation",
     "PicoCTFCompetencia2026/GeneralSkills",
     "PicoCTFCompetencia2026/Forensic",
     "PicoCTFCompetencia2026/Cryptography",
     "PicoCTFCompetencia2026",
     "PicoCTF/PicoCTF-Forensic2",
-    "PicoCTF/Examen1 1/Examen1General Skills",
-    "PicoCTF/Examen1 1/Examen1Web"
+    "PicoCTF/Examen1 1/Examen1General Skills"
   ]
 }
