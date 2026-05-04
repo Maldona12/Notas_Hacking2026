@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/PicoCTFCrypto4/5- flags.md",
+                "file": "PLANTILLA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5- flags"
+              "title": "PLANTILLA"
             }
           }
         ]
@@ -185,12 +185,23 @@
   },
   "active": "08305a85616fb2f2",
   "lastOpenFiles": [
+    "PicoCTF/Tarea4-Crypto/10- Vigenere.md",
+    "PicoCTF/Tarea4-Crypto/9- substitution2.md",
+    "PicoCTF/Tarea4-Crypto/8- substitution1.md",
+    "PicoCTF/Tarea4-Crypto/7- substitution0.md",
+    "PicoCTF/Tarea4-Crypto/6- rail-fence.md",
+    "PicoCTF/Tarea4-Crypto/5-morse-code.md",
+    "PicoCTF/Tarea4-Crypto/3- EVEN RSA CAN BE BROKEN.md",
+    "PicoCTF/Tarea4-Crypto/4- hashcrack.md",
+    "PLANTILLA.md",
+    "PicoCTF/Tarea4-Crypto/2- credstuff.md",
+    "PicoCTF/Tarea4-Crypto/1- Crack the Power.md",
+    "PicoCTF/PicoCTFCrypto4/5- flags.md",
+    "PicoCTF/Tarea4-Crypto",
     "PicoCTF/PicoCTFCrypto4/4- ReadMyCert.md",
     "PicoCTF/PicoCTFCrypto4/3- HideToSee.md",
     "PicoCTF/PicoCTFCrypto4/2- basic-mod1.md",
     "PicoCTF/PicoCTFCrypto4/1- Pixelated.md",
-    "PicoCTF/PicoCTFCrypto4/5- flags.md",
-    "PLANTILLA.md",
     "PicoCTF/PicoCTFCrypto3/4- b00tl3gRSA3.md",
     "PicoCTF/PicoCTFCrypto4",
     "PicoCTF/PicoCTFCrypto3/2- Mind your Ps and Qs.md",
@@ -205,21 +216,10 @@
     "PicoCTF/PicoCTFCrypto/6- Tapping.md",
     "PicoCTF/PicoCTFCrypto/5- la cifra de.md",
     "PicoCTF/PicoCTFCrypto/4- Easy 1.md",
-    "PicoCTF/PicoCTFCrypto/3- Ceasar.md",
-    "PicoCTF/PicoCTFCrypto/2- 13.md",
-    "PicoCTF/PicoCTFCrypto/1- The Numbers.md",
-    "PicoCTF/Examen1/Examen1General Skills/Python Wrangling.md",
     "PicoCTF/PicoCTFCrypto",
-    "PicoCTF/Examen1/Examen1General Skills/SansAplha.md",
-    "PicoCTF/Examen1/Examen1Web/SSTI2.md",
-    "PicoCTF/Examen1/Examen1General Skills/Specialer.md",
-    "PicoCTF/Examen1/Examen1Web/SSTI1.md",
-    "PicoCTF/Examen1/Examen1Web/Bookmarklet.md",
-    "PicoCTF/Examen1/Examen1Web/SQL Direct.md",
     "PicoCTF/Examen1.rar",
     "PicoCTF/PicoCTF-Forensic4",
     "PicoCTFCompetencia2026/WebExplotation",
-    "PicoCTFCompetencia2026/GeneralSkills",
-    "PicoCTFCompetencia2026/Forensic"
+    "PicoCTFCompetencia2026/GeneralSkills"
   ]
 }
