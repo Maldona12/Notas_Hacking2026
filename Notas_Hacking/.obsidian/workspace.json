@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f45b6c4c86195c8d",
+        "id": "565cbed0df2236a8",
         "type": "tabs",
         "children": [
           {
-            "id": "08305a85616fb2f2",
+            "id": "0e83101bad3db5c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Reversing-Parte1/4- vault-door-4.md",
+                "file": "PicoCTF/PicoCTF-Reversing/3- asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4- vault-door-4"
-            }
-          },
-          {
-            "id": "c0617deca6af5400",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Reversing-Parte2/5- Picker III.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5- Picker III"
+              "title": "3- asm3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,22 +183,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c0617deca6af5400",
+  "active": "0e83101bad3db5c7",
   "lastOpenFiles": [
-    "PicoCTF/Reversing-Parte2/6- Picker IV.md",
-    "PicoCTF/Reversing-Parte2/5- Picker III.md",
-    "PicoCTF/Reversing-Parte2/4- Picker II.md",
-    "PicoCTF/Reversing-Parte2/3- Picker I.md",
-    "PicoCTF/Reversing-Parte2/2- timer.md",
-    "PicoCTF/Reversing-Parte2/1- Safe Opener 2.md",
+    "PicoCTF/PicoCTF-Reversing/2- asm2.md",
+    "PicoCTF/PicoCTF-Reversing/1- asm1.md",
+    "PicoCTF/PicoCTF-Reversing/3- asm3.md",
     "PLANTILLA.md",
     "PicoCTF/Reversing-Parte1/5- vault-door-5.md",
-    "PicoCTF/Reversing-Parte2",
-    "Sin nombre",
+    "PicoCTF/PicoCTF-Reversing",
     "PicoCTF/Reversing-Parte1/4- vault-door-4.md",
     "PicoCTF/Reversing-Parte1/3 vault-door-3.md",
     "PicoCTF/Reversing-Parte1/2- vault-door-1.md",
     "PicoCTF/Reversing-Parte1/1- vault-door-training.md",
+    "PicoCTF/Reversing-Parte2/5- Picker III.md",
+    "PicoCTF/Reversing-Parte2/6- Picker IV.md",
+    "PicoCTF/Reversing-Parte2/4- Picker II.md",
+    "PicoCTF/Reversing-Parte2/3- Picker I.md",
+    "PicoCTF/Reversing-Parte2/2- timer.md",
+    "PicoCTF/Reversing-Parte2/1- Safe Opener 2.md",
+    "PicoCTF/Reversing-Parte2",
+    "Sin nombre",
     "PicoCTF/Reversing-Parte1",
     "PicoCTF/Tarea4-Crypto/10- Vigenere.md",
     "PicoCTF/Tarea4-Crypto/9- substitution2.md",
@@ -227,14 +216,10 @@
     "PicoCTF/Tarea4-Crypto/1- Crack the Power.md",
     "PicoCTF/PicoCTFCrypto4/5- flags.md",
     "PicoCTF/Tarea4-Crypto",
-    "PicoCTF/PicoCTFCrypto4/4- ReadMyCert.md",
-    "PicoCTF/PicoCTFCrypto4/3- HideToSee.md",
-    "PicoCTF/PicoCTFCrypto4/2- basic-mod1.md",
     "PicoCTF/PicoCTFCrypto4",
     "PicoCTF/PicoCTFCrypto2",
     "PicoCTF/PicoCTFCrypto3",
     "PicoCTF/PicoCTFCrypto/Sin nombre",
-    "PicoCTF/PicoCTFCrypto",
-    "PicoCTF/Examen1.rar"
+    "PicoCTF/PicoCTFCrypto"
   ]
 }
